@@ -18,4 +18,4 @@ i am a developer that primarily consists of making electron apps, node backends,
 and such more.
 ## my website
 you can find my website here. 
-https://kiritoasty.dev/
+my website is changing soon due to the name change. come back here later!
