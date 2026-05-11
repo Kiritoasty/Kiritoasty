@@ -1,4 +1,3 @@
-
 ```
  ███▄    █  ██▓▒██   ██▒▄▄▄█████▓ ▒█████   ▄▄▄        ██████ ▄▄▄█████▓▓██   ██▓
  ██ ▀█   █ ▓██▒▒▒ █ █ ▒░▓  ██▒ ▓▒▒██▒  ██▒▒████▄    ▒██    ▒ ▓  ██▒ ▓▒ ▒██  ██▒
@@ -9,37 +8,23 @@
 ░ ░░   ░ ▒░ ▒ ░░░   ░▒ ░    ░      ░ ▒ ▒░   ▒   ▒▒ ░░ ░▒  ░ ░    ░     ▓██ ░▒░ 
    ░   ░ ░  ▒ ░ ░    ░    ░      ░ ░ ░ ▒    ░   ▒   ░  ░  ░    ░       ▒ ▒ ░░  
          ░  ░   ░    ░               ░ ░        ░  ░      ░            ░ ░     
-                                                                       ░ ░
+                                                                       ░ ░                                                              
 ```
-# Stuff to infer from me (raw info)
+## about me
+i am a developer that primarily consists of making electron apps, node backends, and HTML. such projects i am brainstorming/working on are
+- enceladus.editor (Electron Notepad) -> https://github.com/nixtoasty/enceladus-editor & https://nixtoasty.me/enceladus-editor
+- TrinucloCloud
+- UmbrielCat
+and such more.
+## my website
+you can find my website here. 
+https://nixtoasty.me
+## contacts
+you have two ways of contacting me, my email or my google form
+## google form
+https://nixtoasty.me/contact
+
+## email.txt
 ```
-LINKS
-================================================
-Contact: https://nixtoasty.me/contact
-Blog: https://blog.nixtoasty.me/
-
-INFORMATION ABOUT ME
-================================================
-Pronouns: He / Him
-Alt. Pronouns: They / Them
-Month and Day of birth: April 20
-Shortened Name: Toasty
-Normal Name ( use in mentioning me in other sources ): Nixtoasty
-My favorite thing: Cats
-
-DESCRIPTION
-================================================
-Silly lil fella on the internet doing programming things that the average person doesnt know about
-I am SOOOOOOOOOOO interested in the web to the point i'm not even interested in using it i'm interested in how it works
-
-SOCIAL MEDIA
-================================================
-https://mstdn.plus/@nixtoasty
-https://github.com/nixtoasty
-https://discord.com/users/748961308
-
-CONTACT
-================================================
-mailto:nixtoasty.me@polynet.me
-
+nixtoasty@polynet.me
 ```
