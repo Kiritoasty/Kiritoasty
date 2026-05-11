@@ -19,7 +19,7 @@ and such more.
 ## my website
 you can find my website here. 
 https://nixtoasty.me
-## contacts
+# contacts
 you have two ways of contacting me, my email or my google form
 ## google form
 https://nixtoasty.me/contact
