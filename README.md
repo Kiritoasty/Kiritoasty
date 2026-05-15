@@ -30,14 +30,13 @@
 <br>
 
 <div align="center">
-
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nixtoasty&show_icons=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=00000000&border_radius=20&border_color=7e22ce" width="500px"/>
+        <img src="https://github-readme-stats-eight-rho-15.vercel.app/api?username=nixtoasty&show_icons=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=00000000&border_radius=20&border_color=7e22ce" width="500px"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixtoasty&layout=compact&langs_count=6&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=00000000&border_radius=20&border_color=7e22ce" width="330px"/>
+        <img src="https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=nixtoasty&layout=compact&langs_count=6&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=00000000&border_radius=20&border_color=7e22ce" width="330px"/>
       </td>
     </tr>
   </table>
