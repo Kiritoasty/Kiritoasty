@@ -50,27 +50,23 @@
 
 <div align="center">
 
-  <details>
-    <summary> unwrap() for more</summary>
+<details>
+<summary>unwrap() for more</summary>
 
-    <br>
+<br>
 
-    *things i reach for:*
+*things i reach for:*
 
-    <div align="center">
+![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-    ![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
-    </div>
+*Visitors:*
 
-    <br>
+<img width="350px" src="https://count.getloli.com/get/@nixtoasty">
 
-    *Visitors:*
-
-    <img width="350px" src="https://count.getloli.com/get/@nixtoasty">
-
-  </details>
+</details>
 
 </div>
